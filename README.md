@@ -1,2 +1,2 @@
 # CS204-Advanced-Programming
-All codes written in the advanced programming course
+All codes written in the last term.
